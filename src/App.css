@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  font-size: 25px;
+}
+
+.App-title {
+  font-size: 1.4em;
+}
+
+input, button{
+  font-size: 18px;
+}
+body {
+  background: burlywood;
+}
+button {
+  background: orangered;
+  border-radius: 10px;
+  margin: 1rem;
+}
+button:hover {
+  background: #dc3545;
+  font-size: 20px;
+}
+
+footer {
+  margin: 10rem;
+  font-family: sans-serif;
+  font-size: 1rem;
+}
